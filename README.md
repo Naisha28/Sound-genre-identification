@@ -1,2 +1,5 @@
-# Music-recognition-system
-Machine Learning project - Music recognition system
+# Sound-genre-identification
+Machine Learning project - Sound genre recognition system
+
+Input: Any music
+Output: Genre of the music
